@@ -78,10 +78,7 @@ $db['default'] = array(
 	'hostname' => 'localhost',
 
 	
-	// 'username' => 'vergvhlw_sai',
-	// 'password' => 'Jv(G0UE}!rGA',
-	// 'database' => 'vergvhlw_sai_db',
-
+	
 	'username' => 'root',
 	'password' => '',
 	'database' => 'sai_db',
